@@ -11,6 +11,10 @@ This automatic page generator is the easiest way to create beautiful pages for a
 * M.Sc., Economics(Cum Laude), 2006
 * B.A., International Economy and Trade, Jilin University China, 2004
 
+### Publication
+* Measuring True Sales and Underreporting with Matched Firm-Level Survey and Tax-Office Data
+  Fujin Zhou and Remco Oostendorp, Review of Economics and Statistics, Vol.96, No. 3: 563–576., 2014
+
 ### Authors and Contributors
 You can @mention a GitHub username to generate a link to their profile. The resulting `<a>` element will link to the contributor’s GitHub Profile. For example: In 2007, Chris Wanstrath (@defunkt), PJ Hyett (@pjhyett), and Tom Preston-Werner (@mojombo) founded GitHub.
 
