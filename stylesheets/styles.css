@@ -33,9 +33,13 @@ h3, h4, h5, h6 {
 }
 
 a {
+  color:#222;
+  font-weight:700;
+  /*
   color:#39c;
   font-weight:400;
-  text-decoration:none;
+  */
+  text-decoration:underline;
 }
 
 a small {
@@ -143,6 +147,10 @@ strong {
   font-weight:700;
 }
 
+.link {
+  text-decoration: underline;
+}
+
 header ul li + li {
   width:88px;
   border-left:1px solid #fff;
@@ -160,7 +168,7 @@ header ul a strong {
 }
 
 section {
-  width:500px;
+  width:520px;
   float:right;
   padding-bottom:50px;
 }
